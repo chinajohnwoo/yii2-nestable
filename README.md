@@ -1,2 +1,5 @@
 # yii2-nestable
-yii2 widget for jquery plugin nestable. It can create a html fast and builtfull. It can change the sort by drag
+A yii2 widget of jquery plugin nestable can quick create a beautiful html. The sort can be changed by dragging.
+
+Like this:
+![](http://deeppic.b0.upaiyun.com/1508/EkFj3ZNo.png)
