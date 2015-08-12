@@ -1,0 +1,1 @@
+<?php/** *  * @author cszchen * */namespace cszchen\nestable;use yii\web\AssetBundle;class NestableAsset extends AssetBundle{        //public $sourcePath = '@cszchen/nestable/assets';        public $sourcePath = '@cszchen/nestable/assets';        public $js = [    	'jquery.nestable.js',    ];    public $css = [        'jquery.nestable.css',    ];}
