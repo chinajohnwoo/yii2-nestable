@@ -1,0 +1,16 @@
+{
+    "name": "cszchen/nestable",
+    "description": "yii widget for nestable",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2-jui": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cartmanchen",
+            "email": "csz@soyhw.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
