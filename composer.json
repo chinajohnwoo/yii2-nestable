@@ -1,5 +1,6 @@
 {
     "name": "cszchen/nestable",
+    "version": "v1.0",
     "description": "yii widget for nestable",
     "type": "yii2-extension",
     "require": {
